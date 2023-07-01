@@ -152,7 +152,7 @@ interface IWRC20 {
 }
 ```
 
-## TestTokenAbi.json
+## TestTokenABI.json
 
 ```
 [
