@@ -1,5 +1,6 @@
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/AETx0cULRMs)
-
+<p align="center">
+[![Watch the video](https://imgur.com/a/hwZ1Vit)](https://youtu.be/AETx0cULRMs)
+</p>
 
 ## WhiteRapzz.sol
 
