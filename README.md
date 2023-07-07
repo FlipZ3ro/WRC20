@@ -1,6 +1,6 @@
-<p align="center">
+
 [![Watch the video](https://imgur.com/a/hwZ1Vit)](https://youtu.be/AETx0cULRMs)
-</p>
+
 
 ## WhiteRapzz.sol
 
