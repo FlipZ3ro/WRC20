@@ -1,5 +1,5 @@
 
-[![Watch the video](https://imgur.com/a/hwZ1Vit)](https://youtu.be/AETx0cULRMs)
+[![asciicast](https://asciinema.org/a/113463.png)](https://youtu.be/AETx0cULRMs)
 
 
 ## WhiteRapzz.sol
