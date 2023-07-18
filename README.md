@@ -1,4 +1,4 @@
-# WATCH NOW
+## WATCH NOW : klik gambar dibawah untuk menonton tutorial 👇
 
 [![Watch the video](https://img.youtube.com/vi/AETx0cULRMs/maxresdefault.jpg)](https://youtu.be/AETx0cULRMs)
 
